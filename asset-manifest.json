@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-questions/static/css/main.2c20f5c1.css",
+    "main.js": "/react-questions/static/js/main.2b6dfa89.js",
+    "static/media/background.jpg": "/react-questions/static/media/background.ebf822efe4e3d1d5f1e2.jpg",
+    "index.html": "/react-questions/index.html",
+    "main.2c20f5c1.css.map": "/react-questions/static/css/main.2c20f5c1.css.map",
+    "main.2b6dfa89.js.map": "/react-questions/static/js/main.2b6dfa89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c20f5c1.css",
+    "static/js/main.2b6dfa89.js"
+  ]
+}
